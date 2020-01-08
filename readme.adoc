@@ -32,6 +32,8 @@ Download the JIRA Free version it cost $10 donation.
 
 Download Reference: https://www.atlassian.com/software/jira/download?_ga=2.184328230.1028149306.1578487899-1813773132.1574458645
 
+Download link: Download through this link:https://pwc-lms.com/OpenStuff/Software/atlassian-jira-software-8.6.0-x64.exe[ link,window='_blank']
+
 Installation Reference: https://confluence.atlassian.com/adminjiraserver/installing-jira-applications-938846823.html
 
 VM Reference: https://confluence.atlassian.com/confeval/jira-software-evaluator-resources/jira-software-installing-jira-on-vmware
