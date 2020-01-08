@@ -19,8 +19,7 @@ v2.1b, 01/08/2020: Work Notes
 :web-ste: https://OpenStuff.pwc-lms.com/doco/folder name
 :linkattrs:
 :seclinks:
-:description: JIRA standalone server installation Free 10 user version\
-on a VM Server more description
+:description: JIRA standalone server installation Free 10 user version on a VM Server more description
 :author: John HR Schuster
 :keywords: JIRA, Free Version,. Installation
 :email: John>Schuster@PhoenixWorkgroup.com
