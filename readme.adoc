@@ -1,0 +1,54 @@
+= JIRA Standalone Server INstallation
+John Schuster <John.schuster@PhoenixWorkgroup.com>
+v2.1b, 01/08/2020: Doco Type
+:Author: John HR Schuster
+:Company: GeekMustHave
+:toc: left
+:toclevels: 4:
+:title-page:
+:title-logo-image: ./images/create-doco_gmh-blogArticle-cover.png
+:imagesdir: ./images
+:pagenums:
+:numbered: 
+:chapter-label: 
+:experimental:
+:source-hightlighter: coderay
+:icons: font
+:docdir: ./documents
+:github: https://github.com/GeekMustHave/GitHub repositoryName
+:web-ste: https://OpenStuff.pwc-lms.com/doco/folder name
+:linkattrs:
+:seclinks:
+:description: Metatag description \
+more description
+:author: John HR Schuster
+:keywords: GeekMustHave, keyword2, keyword3
+:email: GeekMustHave@PhoenixWorkgroup.com
+
+Preamble paragraph goes here
+
+== Introduction
+
+
+
+
+
+<<<<
+== Document History
+
+.Document History
+[cols='2,2,2,6' options='header']
+|===
+| Date  | Version | Author | Description
+| 01/08/2020 | V2.1b | JHRS |  Initial version
+|===
+
+
+
+
+////
+This template created by GeekMustHave
+////
+
+
+
